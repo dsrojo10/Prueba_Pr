@@ -1,0 +1,32 @@
+{
+  "health_beauty": {
+    "nombre": "Línea Health & Beauty",
+    "precio_promedio_brl": 130.0,
+    "descripcion": "Selección de productos de salud y belleza con alta rotación y fuerte capacidad de monetización. Es una categoría ideal para impulsar recompra, cuidado personal y valor de vida del cliente.",
+    "atributos_clave": [
+      "alto ingreso total",
+      "alta demanda",
+      "potencial de recompra"
+    ]
+  },
+  "watches_gifts": {
+    "nombre": "Línea Watches & Gifts",
+    "precio_promedio_brl": 198.88,
+    "descripcion": "Portafolio de mayor ticket promedio, orientado a clientes que valoran diseño, obsequio y percepción premium. Es especialmente útil para estrategias de upsell y campañas de valor.",
+    "atributos_clave": [
+      "ticket alto",
+      "alto ingreso por unidad",
+      "perfil premium"
+    ]
+  },
+  "bed_bath_table": {
+    "nombre": "Línea Bed, Bath & Table",
+    "precio_promedio_brl": 93.38,
+    "descripcion": "Categoría esencial del hogar con el mayor volumen vendido. Aporta capilaridad comercial, frecuencia de compra y oportunidades de cross-sell en productos funcionales del día a día.",
+    "atributos_clave": [
+      "máximo volumen vendido",
+      "uso cotidiano",
+      "gran cobertura de mercado"
+    ]
+  }
+}
